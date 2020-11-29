@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Child component test should render Child component 1`] = `
+<div>
+  <h2
+    className="child"
+  >
+    This is Child component
+  </h2>
+</div>
+`;
